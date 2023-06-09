@@ -1,2 +1,2 @@
-# design.github.io
+# ibnlokmanDesign.github.io
 Designer Portfolio
