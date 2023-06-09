@@ -1,2 +1,2 @@
-# designghor.github.io
+# design.github.io
 Designer Portfolio
